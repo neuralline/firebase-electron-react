@@ -1,5 +1,5 @@
 {
-  "name": "express-react",
+  "name": "electron-react",
   "author": "Darik Hart",
   "main": "public/electron.js",
   "appId": "com.secret_message",
