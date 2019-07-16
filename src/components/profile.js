@@ -1,6 +1,6 @@
+import { Button } from "@material-ui/core";
 import React from "react";
 import Base from "./base";
-import { Button, FormControl, Input, InputLabel } from "@material-ui/core";
 
 const Profile = ({ history }) => {
   return (

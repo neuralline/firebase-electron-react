@@ -1,6 +1,6 @@
 import React, { useCallback } from "react";
-import Base from "./base";
 import { withRouter } from "react-router-dom";
+import Base from "./base";
 
 const Signup = ({ history }) => {
   const handleSubmit = useCallback(
